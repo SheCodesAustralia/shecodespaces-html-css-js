@@ -1,0 +1,13 @@
+{
+  "name": "SheCodespaces for HTML/CSS/JS",
+  "hostRequirements": {
+    "cpus": 2
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "codespaces-contrib.codeswing"
+      ]
+    },
+  }
+}
